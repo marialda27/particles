@@ -1,4 +1,4 @@
-# MAC particle code
+# DynaSun particle code
 
 We present a new particle code for the emulation of gyrosynchrotron emission. This code is structured in 3 main programs:
 * **Read and write**: with this code we transform `hdf5` data to binary plain data.
